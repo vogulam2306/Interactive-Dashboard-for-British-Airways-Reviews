@@ -3,7 +3,7 @@
 **Project: Interactive Dashboard Creation for British Airways Reviews**
 Utilizing Tableau, developed an engaging dashboard that would allow users to dynamically explore various metrics such as overall ratings, cabin staff service, entertainment, food, ground service, seat comfort, and value for money. Additionally, the dashboard needed to incorporate flexible filters enabling users to narrow down their search by month, traveler type, aircraft, and continent.
 
-**Steps:
+Steps:
 1. **Data Preparation and Exploration:**
    - Loaded and integrated two CSV files containing British Airways reviews and countries data.
    - Explored the data structure, identifying key metrics including ratings for different service aspects.
