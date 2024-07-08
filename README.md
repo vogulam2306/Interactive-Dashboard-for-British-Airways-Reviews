@@ -38,7 +38,7 @@ Steps:
 - Tableau for data visualization and dashboard development.
 - CSV files for data source integration.
 
-- [View the dashboard on Tableau Public link](https://public.tableau.com/app/profile/vogulamharsha23/viz/BritishAirwaysReview_17122685136910/Dashboard1)
+[View the dashboard on Tableau Public link](https://public.tableau.com/app/profile/vogulamharsha23/viz/BritishAirwaysReview_17122685136910/Dashboard1)
 
 ### Dashboard
 ![image](https://github.com/vogulam2306/Interactive-Dashboard-for-British-Airways-Reviews/assets/59795274/f6f7c9d2-147c-4a1b-8882-a0698ac9f49e)
